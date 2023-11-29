@@ -1,1 +1,1 @@
-# CSS-exercises
+# CSS-exercises. CIT14-2G
