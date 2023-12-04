@@ -1,0 +1,38 @@
+body {
+    background-color: #2AAF7F;
+}
+
+.header {
+    color: #000000;
+    padding: 30px;
+    text-align: center;
+}
+
+.htxt {
+    font-size: 45px;
+    font-family: Verdana;
+    padding: 15px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box {
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    border: 8px solid black;
+    margin: 10px;
+    background-color: #B3BAB7;
+}
+
+.content {
+    text-align-last: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-top: 45%;
+    margin: 0em;
+}

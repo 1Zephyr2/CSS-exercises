@@ -6,7 +6,6 @@ body {
     background-color: #F1C40F;
     color: rgb(0, 0, 0);
     padding: 20px;
-    text-align: center;
 }
 
 .boxes {
@@ -48,3 +47,4 @@ body {
     font-family: sans-serif;
     font-size: 45px;
 }
+
