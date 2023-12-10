@@ -1,0 +1,38 @@
+.header {
+    color: #000000;
+    padding: 30px;
+    text-align: center;
+}
+
+.htxt {
+    font-size: 45px;
+    font-family: Verdana;
+    padding: 15px;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #adadad;
+    color: #000000;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 200px;
+    font-size: 150px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+@media only screen and (max-width: 500px) {
+    header, footer {
+      font-size: 14px;
+    }
+}
